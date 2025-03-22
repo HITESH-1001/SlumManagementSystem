@@ -46,7 +46,7 @@ export default function RegisterPage() {
 
     // Form validation
     if (!username || !phoneNumber || !password || !confirmPassword || !otp) {
-      setError("All fields are required")
+      setError("All fields are required you df")
       return
     }
 
